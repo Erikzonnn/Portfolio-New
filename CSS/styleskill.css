@@ -71,7 +71,7 @@
 
 	/* pagina aqui  */
 
-	.main{
+	.titulo{
 		color: white;
 		position: absolute;
 		top: 10%;
@@ -82,6 +82,67 @@
 		display: inline-block;
 	}
 
+	.textito {
+		color: white;
+		position: absolute;
+		top: 35%;
+		left: 25%;
+		transform: translate(-50%, -50%);
+		text-align: center;
+		font-size: 150%;
+		display: inline-block;
+
+	}
+
+	.java {
+		width: 21.5%;
+	}
+
+	.textitohtml {
+		color: white;
+		position: absolute;
+		top: 35%;
+		left: 45%;
+		transform: translate(-50%, -50%);
+		text-align: center;
+		font-size: 150%;
+		display: inline-block;
+
+	}
+
+	.htmlfoto {
+		width: 50%;
+	}
+
+	.textitocss {
+		color: white;
+		position: absolute;
+		top: 35%;
+		left: 65%;
+		transform: translate(-50%, -50%);
+		text-align: center;
+		font-size: 150%;
+		display: inline-block;
+
+	}
+	.cssfoto{
+		width: 50%;
+	}
+
+	.textitofut {
+		color: white;
+		position: absolute;
+		top: 75%;
+		left: 25%;
+		transform: translate(-50%, -50%);
+		text-align: center;
+		font-size: 150%;
+		display: inline-block;
+
+	}
+	.fut{
+		width: 90%;
+	}
 
 	.redes{
 		font-size: 150%;

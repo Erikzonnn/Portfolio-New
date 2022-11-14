@@ -71,7 +71,7 @@
 
 	/* pagina aqui  */
 
-	.main{
+	.titulo{
 		color: white;
 		position: absolute;
 		top: 10%;
@@ -80,6 +80,18 @@
 		text-align: left;
 		font-size: 600%;
 		display: inline-block;
+	}
+
+	.textito {
+		color: white;
+		position: absolute;
+		top: 50%;
+		left: 35%;
+		transform: translate(-50%, -50%);
+		text-align: center;
+		font-size: 150%;
+		display: inline-block;
+
 	}
 
 
